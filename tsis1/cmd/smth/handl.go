@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-        "https://github.com/makulbekov019/Golang-2024/tsis1/pkg/models"
+        "github.com/makulbekov019/Golang-2024/tsis1/pkg/models"
 )
 
 func WelcomeHandler(w http.ResponseWriter, r *http.Request) {
