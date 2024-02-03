@@ -1,4 +1,4 @@
-module https://github.com/makulbekov019/Golang-2024.git
+module github.com/makulbekov019/Golang-2024/tsis1
 
 go 1.21.6
 
